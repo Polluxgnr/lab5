@@ -1,0 +1,116 @@
+id,model,raw
+E01,openai/gpt-4o-mini,"```json
+{
+  ""plant"": ""Akkuyu Nuclear Power Plant"",
+  ""units"": [
+    {
+      ""unit"": ""Unit 1"",
+      ""construction_start_year"": 2018,
+      ""expected_operation_year"": 2026
+    },
+    {
+      ""unit"": ""Unit 2"",
+      ""construction_start_year"": 2020,
+      ""expected_operation_year"": null
+    },
+    {
+      ""unit"": ""Unit 3"",
+      ""construction_start_year"": null,
+      ""expected_operation_year"": null
+    },
+    {
+      ""unit"": ""Unit 4"",
+      ""construction_start_year"": null,
+      ""expected_operation_year"": null
+    }
+  ]
+}
+```"
+E02,openai/gpt-4o-mini,"```json
+{
+  ""plant"": ""first nuclear power plant"",
+  ""units"": [
+    {
+      ""unit"": ""unit 1"",
+      ""construction_start_year"": 2022,
+      ""expected_operation_year"": null
+    },
+    {
+      ""unit"": ""unit 2"",
+      ""construction_start_year"": 2022,
+      ""expected_operation_year"": null
+    },
+    {
+      ""unit"": ""unit 3"",
+      ""construction_start_year"": null,
+      ""expected_operation_year"": null
+    },
+    {
+      ""unit"": ""unit 4"",
+      ""construction_start_year"": null,
+      ""expected_operation_year"": null
+    }
+  ]
+}
+```"
+E03,openai/gpt-4o-mini,"```json
+{
+  ""plant"": ""Hinkley Point C"",
+  ""units"": [
+    {
+      ""unit"": ""Unit 1"",
+      ""construction_start_year"": 2017,
+      ""expected_operation_year"": 2030
+    },
+    {
+      ""unit"": ""Unit 2"",
+      ""construction_start_year"": null,
+      ""expected_operation_year"": null
+    }
+  ]
+}
+```"
+E04,openai/gpt-4o-mini,"```json
+{
+  ""plant"": ""Kudankulam Nuclear Power Plant"",
+  ""units"": [
+    {
+      ""unit"": ""Unit 3"",
+      ""construction_start_year"": 2017,
+      ""expected_operation_year"": 2026
+    },
+    {
+      ""unit"": ""Unit 4"",
+      ""construction_start_year"": 2017,
+      ""expected_operation_year"": 2026
+    },
+    {
+      ""unit"": ""Unit 5"",
+      ""construction_start_year"": 2020,
+      ""expected_operation_year"": 2026
+    },
+    {
+      ""unit"": ""Unit 6"",
+      ""construction_start_year"": 2020,
+      ""expected_operation_year"": 2027
+    }
+  ]
+}
+```"
+E05,openai/gpt-4o-mini,"```json
+{
+  ""plant"": ""Rooppur Nuclear Power Plant"",
+  ""units"": [
+    {
+      ""unit"": ""Unit 1"",
+      ""construction_start_year"": 2017,
+      ""expected_operation_year"": 2026
+    },
+    {
+      ""unit"": ""Unit 2"",
+      ""construction_start_year"": 2018,
+      ""expected_operation_year"": null
+    }
+  ]
+}
+```"
