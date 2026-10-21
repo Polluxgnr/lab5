@@ -1,0 +1,17 @@
+id,plant,unit,construction_start_year,expected_operation_year,note
+E01,Akkuyu,1,2018,2026,cs: 'construction of the first reactor commenced in April 2018'; op: Dec 2025 govt expects unit 1 in 2026
+E01,Akkuyu,2,2020,2028,op is plant-level: 'other three expected complete by 2028'
+E01,Akkuyu,3,,2028,cs not stated; op plant-level (2028)
+E01,Akkuyu,4,,2028,cs not stated; op plant-level (2028)
+E02,El Dabaa,1,2022,,first safety-related concrete July 2022; no op date
+E02,El Dabaa,2,2022,,construction started 19 Nov 2022; no op date
+E02,El Dabaa,3,,,only permit applications mentioned
+E02,El Dabaa,4,,,only permit applications mentioned
+E03,Hinkley Point C,C1,2018,2030,AMBIGUOUS cs: 'construction began March 2017' (site consent) vs first reactor concrete 11 Dec 2018 -> rule = first nuclear concrete
+E03,Hinkley Point C,C2,,,only 'reactor base for unit 2 completed' (June 2020); no start or op year
+E04,Kudankulam,3,2017,2026,cs 29 June 2017; op 'expected to be commissioned in 2026'
+E04,Kudankulam,4,2017,,cs 29 June 2017 (units 3 and 4); no op year for unit 4
+E04,Kudankulam,5,2021,2026,AMBIGUOUS cs: 'concrete pour begun in 2020' vs 'construction commenced 29 June 2021' -> official start; op 'ready for commissioning Dec 2026'
+E04,Kudankulam,6,2021,2027,cs as unit 5; op 'ready by September 2027'
+E05,Rooppur,1,,2026,AMBIGUOUS cs: only the Nov 2017 construction licence 'paving the way for first concrete'; no pour date -> null
+E05,Rooppur,2,2018,,first concrete 14 July 2018; no op year for unit 2
